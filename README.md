@@ -39,20 +39,3 @@ Plot Province/State Wise Confirmed cases in USA
 Question 9:
 Plot Worldwide Confirmed Cases over time
 
-## ==========================================================================================
-
-# Initial commands for creating local git repo:
-echo "# CovidDataAnalysis_using_Pandas_Ml1-AASD4000" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AlimulHJ/CovidDataAnalysis_using_Pandas_Ml1-AASD4000.git
-git push -u origin main
-
-
-…or push an existing repository from the command line
-
-git remote add origin https://github.com/AlimulHJ/CovidDataAnalysis_using_Pandas_Ml1-AASD4000.git
-git branch -M main
-git push -u origin main
